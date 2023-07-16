@@ -1,0 +1,70 @@
+.baloldal{
+    width: 50%;
+    background-color: rgb(192, 225, 236);
+    font-family: 'Roboto', 
+    sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 50%;
+    text-align: center;
+    color: white;
+    height: 100%;
+}
+.jobboldal{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+    padding-top: 40%;
+    height: 100%;
+}
+.Felhasználó{
+    padding-top: 30%;
+    padding-left: 20px;
+}
+#felhasz{
+    position: relative;
+    top: -15px;
+    font-size: larger;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+}
+.Jelszó{
+    padding-left: 20px;
+    padding-bottom: 50%;
+}
+#jel{
+    position: relative;
+    top: -15px;
+    font-size: larger;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+}
+.kép{
+    width: 50%;
+}
+.gomb{
+    padding: 10px 15px;
+    background-color: rgb(176, 211, 243);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-right: 20px;
+    position: relative;
+    top: -40px;
+
+}
+.gomb:hover{
+    opacity: 0.5;
+}
+.gombdiv{
+    text-align: right;
+}
+h1{
+    padding-top: 6rem;
+}
